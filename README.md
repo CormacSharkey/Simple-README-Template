@@ -4,6 +4,26 @@ A simple template for writing a project's README.
 
 Author: CormacSharkey
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about">About</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributions">Contributions</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ## About
 
 *About: describe the project simply; why it was created, how it works and how it was created (non-technical).*
@@ -29,7 +49,7 @@ Feel free to use this template for some or all of your projects (or none!), I co
 pip install numpy
 ````
 
-- Get a free API Key from *[Example API Key](example.com)*
+- Get a free API Key from *[Example.com](example.com)*
 
 ### Installation
 
