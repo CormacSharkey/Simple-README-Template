@@ -7,6 +7,7 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/CormacSharkey/Simple-README-Template?style=flat)
 ![GitHub License](https://img.shields.io/github/license/CormacSharkey/Simple-README-Template)
 [![GitHub][github-shield]][github-url]
+[![Goodreads][goodreads-shield]][goodreads-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 A simple template for writing a project's README.
@@ -112,3 +113,6 @@ This template was inspired by the following:
 
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white
 [github-url]: https://github.com/CormacSharkey
+
+[goodreads-shield]: https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads&logoColor=white
+[goodreads-url]: https://www.goodreads.com/user/show/107336829-cormac-sharkey
