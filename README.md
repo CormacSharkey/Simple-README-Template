@@ -1,5 +1,14 @@
 # Simple-README-Template
 
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
+![GitHub contributors](https://img.shields.io/github/contributors/CormacSharkey/Simple-README-Template?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/CormacSharkey/Simple-README-Template?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/CormacSharkey/Simple-README-Template?style=flat)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/CormacSharkey/Simple-README-Template?style=flat)
+![GitHub License](https://img.shields.io/github/license/CormacSharkey/Simple-README-Template)
+[![GitHub][github-shield]][github-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 A simple template for writing a project's README.
 
 Author: CormacSharkey
@@ -96,3 +105,10 @@ If you want to contribute something that makes this better, please fork the repo
 
 This template was inspired by the following:
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/cormac-sharkey/
+
+[github-shield]: https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white
+[github-url]: https://github.com/CormacSharkey
