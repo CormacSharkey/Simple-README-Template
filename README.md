@@ -36,9 +36,7 @@ Author: CormacSharkey
 
 ## About
 
-*About: describe the project simply; why it was created, how it works and how it was created (non-technical).*
-
-*Anything else "about" the project can also be included.*
+*About: describe the project simply; why it was created, how it works and how it was created (non-technical). Anything else "about" the project can also be included.*
 
 In my opinion, a project's README is as important as the project itself, as such it is important to get it right without being overly complicated. 
 
@@ -54,12 +52,12 @@ Feel free to use this template for some or all of your projects (or none!), I co
 
 *Prerequisites: a list of things needed to use the project and how to install them.*
 
-- *NumPy*
+- NumPy
 ````
 pip install numpy
 ````
 
-- Get a free API Key from *[Example.com](example.com)*
+- Get a free API Key from [Example.com](example.com)
 
 ### Installation
 
@@ -104,8 +102,9 @@ If you want to contribute something that makes this better, please fork the repo
 
 *Acknowledgements: acknowledge anyone or anything you want to credit for work on the project.*
 
-This template was inspired by the following:
+Project Resources:
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+- [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
