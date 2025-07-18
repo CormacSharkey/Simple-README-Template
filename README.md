@@ -75,9 +75,10 @@ git clone https://github.com/CormacSharkey/README-Template.git
 API_KEY="XXXXXXXXXXXXXXXX"
 ````
 
-4. Create a new Git branch to preserve the base project
+4. Change the remote git url to avoid pushing to bas project
 ````
-git switch <new-branch-name>
+git remote set-url origin github_username/repo_name
+git remote -v # confirm the changes
 ````
 
 ## Usage
