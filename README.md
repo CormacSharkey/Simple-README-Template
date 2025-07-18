@@ -75,7 +75,7 @@ git clone https://github.com/CormacSharkey/README-Template.git
 API_KEY="XXXXXXXXXXXXXXXX"
 ````
 
-4. Change the remote git url to avoid pushing to bas project
+4. Change the remote git url to avoid pushing to base project
 ````
 git remote set-url origin github_username/repo_name
 git remote -v # confirm the changes
